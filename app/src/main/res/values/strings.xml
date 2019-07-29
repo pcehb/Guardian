@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="nointernet">noInternet</string>
+    <string name="noArticles">No articles</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
